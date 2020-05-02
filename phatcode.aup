@@ -1,0 +1,114 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="phatcode_data" version="1.3.0" audacityversion="2.3.3" sel0="76.8696598639" sel1="76.8696598639" vpos="0" h="76.5910204082" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="glue/dme"/>
+		<tag name="TITLE" value="phatcode"/>
+		<tag name="ALBUM" value="phatcode"/>
+		<tag name="GENRE" value="dos"/>
+	</tags>
+	<wavetrack name="Audio Track" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3727872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d2a.au" len="262144" min="-0.202343" max="0.266835" rms="0.071555"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08082c9.au" len="262144" min="-0.278701" max="0.358726" rms="0.090154"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808b5e.au" len="262144" min="-0.632514" max="0.71158" rms="0.135914"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e08084dd.au" len="262144" min="-0.605693" max="0.687281" rms="0.146187"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0808176.au" len="262144" min="-0.669636" max="0.704936" rms="0.153132"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e080825b.au" len="262144" min="-0.669636" max="0.695174" rms="0.154515"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0808fd0.au" len="262144" min="-0.625961" max="0.702592" rms="0.148339"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e08081e7.au" len="262144" min="-0.639753" max="0.714851" rms="0.153739"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0808024.au" len="262144" min="-0.639753" max="0.714851" rms="0.151125"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0808881.au" len="262144" min="-0.632514" max="0.71158" rms="0.141483"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e08089a0.au" len="262144" min="-0.627154" max="0.694443" rms="0.144372"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e08082a8.au" len="262144" min="-0.627154" max="0.69704" rms="0.142333"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0808736.au" len="262144" min="-0.632514" max="0.69704" rms="0.144467"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e08088da.au" len="160000" min="-0.595585" max="0.71158" rms="0.140083"/>
+				</waveblock>
+				<waveblock start="3567872">
+					<simpleblockfile filename="e080826b.au" len="160000" min="-0.605693" max="0.668057" rms="0.140521"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3727872">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808bf2.au" len="262144" min="-0.201551" max="0.266363" rms="0.065867"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808dbe.au" len="262144" min="-0.469184" max="0.550372" rms="0.183558"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808837.au" len="262144" min="-0.557505" max="0.658585" rms="0.207335"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e080803d.au" len="262144" min="-0.559219" max="0.636913" rms="0.223977"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e08085d4.au" len="262144" min="-0.549165" max="0.655633" rms="0.222198"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e08082a7.au" len="262144" min="-0.557985" max="0.648655" rms="0.221713"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0808721.au" len="262144" min="-0.558008" max="0.64744" rms="0.219229"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0808013.au" len="262144" min="-0.572153" max="0.64171" rms="0.221508"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e080860b.au" len="262144" min="-0.572153" max="0.64744" rms="0.220499"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0808923.au" len="262144" min="-0.549056" max="0.658585" rms="0.221084"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e08089b6.au" len="262144" min="-0.558369" max="0.625186" rms="0.221368"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e0808a9b.au" len="262144" min="-0.561129" max="0.627886" rms="0.221884"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e08085a2.au" len="262144" min="-0.561129" max="0.627886" rms="0.221888"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e0808f96.au" len="160000" min="-0.549056" max="0.658585" rms="0.22316"/>
+				</waveblock>
+				<waveblock start="3567872">
+					<simpleblockfile filename="e0808031.au" len="160000" min="-0.545768" max="0.625186" rms="0.215121"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
